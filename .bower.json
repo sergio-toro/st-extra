@@ -1,0 +1,8 @@
+{
+  "name": "st-extra",
+  "version": "v1.0.0",
+  "main": [
+    "st-extra.js",
+    "st-extra.css"
+  ]
+}
